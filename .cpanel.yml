@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/ozlq5059/public_html/edncorp/wp-content/themes/edncorp
-    - cp -R edncorp $DEPLOYPATH
+    - cp -R README.md $DEPLOYPATH
