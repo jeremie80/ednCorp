@@ -1,3 +1,3 @@
 # edncorp
 test de commit local
-test auto
+test auto V2
